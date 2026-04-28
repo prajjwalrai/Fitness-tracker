@@ -46,6 +46,7 @@ Visualize your transformation over time. Track body weight, BMI, body fat percen
 - **Data Recording:** The API securely stores your physical measurements (`/api/v1/progress`).
 - **Calculation:** It automatically calculates metrics like BMI based on your height and weight.
 - **Visualization:** It provides historical data points that the frontend renders into interactive charts and graphs (`/api/v1/progress/summary`).
+- Made by Prajjwal Rai
 
 ## Technology Stack
 
